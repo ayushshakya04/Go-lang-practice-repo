@@ -5,6 +5,6 @@ import "fmt"
 // main function
 
 func main() {
-	fmt.Println("Welcome to rough space")
+	fmt.Println("Welcome to rough work")
 
 }
