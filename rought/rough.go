@@ -4,7 +4,7 @@ import "fmt"
 
 // main function
 
-func main(){
-	
+func main() {
+	fmt.Println("Welcome to rough space")
+
 }
-func 
